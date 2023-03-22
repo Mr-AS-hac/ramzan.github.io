@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Paaji+2:wght@500&family=Ubuntu:wght@300&display=swap');
+.mar{
+    color: aliceblue;
+    font-size: 37px;
+}
+body {
+    background: url(/bg.jpg) repeat-y ;
+}
+.head{
+/* border: 2px solid red; */
+font-weight: 900;
+font-size: 60px;
+font-family: 'Baloo Paaji 2', cursive;
+color:yellow ;
+margin-left: 33%;
+}
+
+img {
+    border-radius: 50%;
+    height: 31%;
+    width: 31%;
+    margin-left: 33%;
+}
+
+table {
+    margin-left: 10%;
+    background-color: grey;
+    color: white;
+    margin-top: 10px;
+    box-sizing: border-box;
+    border-radius: 92px;
+}
+
+th,td{
+    width: 16.67%;
+    border: 2px solid black;
+    border-collapse: collapse;
+    /* padding:4%; */
+    height: 5%;
+    font-size: 2.0rem;
+}
+th {
+    font-size: 30px;
+    font-weight: 900;
+}
+.wish {
+    font-weight: 900;
+    /* background-color: grey; */
+    color: rgb(255, 255, 255);
+    line-height: 2;
+    font-size: 18px;
+    margin: 4%;
+    font-family: 'Ubuntu', sans-serif;
+}
